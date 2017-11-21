@@ -1,0 +1,9 @@
+GetUnityIntent {left|direction}
+GetUnityIntent {right|direction}
+GetUnityIntent {front|direction}
+GetUnityIntent {back|direction}
+
+GetUnityIntent go {left|direction}
+GetUnityIntent go {right|direction}
+GetUnityIntent go {front|direction}
+GetUnityIntent go {back|direction}

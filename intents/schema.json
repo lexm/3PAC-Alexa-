@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "intent": "GetUnityIntent",
+            "slots": [
+                {
+                    "name": "direction",
+                    "type": "LITERAL"
+                }
+            ]
+        },
+        {
+            "intent": "HelpIntent",
+            "slots": []
+        }
+    ]
+}
